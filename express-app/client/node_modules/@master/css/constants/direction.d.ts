@@ -1,0 +1,10 @@
+export declare const TOP = "top";
+export declare const BOTTOM = "bottom";
+export declare const LEFT = "left";
+export declare const RIGHT = "right";
+export declare const L = "l";
+export declare const R = "r";
+export declare const T = "t";
+export declare const B = "b";
+export declare const X = "x";
+export declare const Y = "y";

@@ -1,0 +1,29 @@
+{
+    "name": "@master/css",
+    "license": "MIT",
+    "description": "A Virtual CSS language with enhanced syntax. ( ~13KB )",
+    "author": "Aoyue Design LLC.",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "funding": "https://docs.master.co/css/donate",
+    "homepage": "https://css.master.co",
+    "private": false,
+    "keywords": [
+        "style",
+        "styles",
+        "html",
+        "variants",
+        "virtual",
+        "virtual-css",
+        "utility",
+        "css",
+        "ui",
+        "lightweight",
+        "class"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/master-co/css.git"
+    },
+    "version": "1.37.8"
+}
